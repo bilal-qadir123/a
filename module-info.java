@@ -1,2 +1,1 @@
-module LAB3TASK {
-}
+import Math 
